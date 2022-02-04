@@ -1,10 +1,6 @@
-### Hi there 👋
-
-
-
-
-
 ![1096497](https://user-images.githubusercontent.com/73265363/152456298-f3879a35-22bc-4387-82f6-e3f78e3ac104.jpeg)
+
+### Hey! Welcome to my profile! I'm still building out some projects to put here. 
 
 
 
