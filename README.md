@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+
+
+![1096497](https://user-images.githubusercontent.com/73265363/152456298-f3879a35-22bc-4387-82f6-e3f78e3ac104.jpeg)
+
+
+
+
+
 <!--
 **necessities/necessities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
