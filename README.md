@@ -1,11 +1,10 @@
-![1096497](https://user-images.githubusercontent.com/73265363/152456298-f3879a35-22bc-4387-82f6-e3f78e3ac104.jpeg)
-
 ### Hey! Welcome to my profile! I'm still building out some projects to put here. 
 
 - 🌱 I’m working on a full stack application using Ruby on Rails and React!
 - 🖥 I have a background in IT and DevOps; I'm no stranger to troubleshooting!
 - 🧐 I’m always looking for ways to become a better programmer!
 
+![1096497](https://user-images.githubusercontent.com/73265363/152456298-f3879a35-22bc-4387-82f6-e3f78e3ac104.jpeg)
 
 
 <!--
