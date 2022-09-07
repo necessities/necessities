@@ -1,6 +1,6 @@
 ### Hey! Welcome to my profile! I'm still building out some projects to put here. 
 
-- 🌱 I’m working on a full stack application using Ruby on Rails and React!
+- 🌱 I’m currently working at an internship with ruby on rails!
 - 🖥 I have a background in IT and DevOps; I'm no stranger to troubleshooting!
 - 🧐 I’m always looking for ways to become a better programmer!
 
