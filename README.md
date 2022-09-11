@@ -1,4 +1,4 @@
-### Hey! Welcome to my profile! I'm still building out some projects to put here. 
+### Hey! Welcome to my profile! My name is Alex and I'm a Web Developer with experience in React and Ruby on Rails!
 
 - 🌱 I’m currently working at an internship with ruby on rails!
 - 🖥 I have a background in IT and DevOps; I'm no stranger to troubleshooting!
