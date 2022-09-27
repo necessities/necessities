@@ -2,7 +2,7 @@
 
 - 🧐 I’m looking for ways to become a better programmer!
 - 🌱 I’m currently working at an internship with Ruby on Rails and jQuery!
-- 🥾 I finished LEARN academy; a full stack web development bootcamp that focuses on React and Ruby on Rails! 
+- 🥾 I finished LEARN academy; a full stack web development bootcamp that focuses on Javascript, React, and Ruby on Rails! 
 - 🖥 I have a background in IT and DevOps; I'm no stranger to troubleshooting!
 
 
